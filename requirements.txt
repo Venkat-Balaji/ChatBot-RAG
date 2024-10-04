@@ -1,0 +1,7 @@
+streamlit
+transformers
+tweepy
+requests
+faiss-cpu
+torch
+numpy
